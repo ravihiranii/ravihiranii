@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Hirani</h1>
 <h3 align="center">Aspiring Data Analyst | Skilled in Python, SQL, and Excel | Eager to Learn</h3>
 
-- 🔭 I’m currently working on [Shopping trends Analysis](https://github.com/ravihiranii/ravihiranii/tree/a96e43f7d1e183e5c6d9596c87d50d39bcdafecb/data_analysis/Shopping_Trends)
+- 🔭 I’m currently working on [Shopping trends Analysis](https://github.com/ravihiranii/data_analysis/tree/2e7174cb1993d350a3a60de39c20ae11383281cd/Shopping_Trends)
 
 - 🌱 I’m currently learning **Data Analysis & Data Science**
 
